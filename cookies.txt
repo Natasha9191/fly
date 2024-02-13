@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.pinterest.com	TRUE	/	FALSE	1999999999	csrftoken	a538cf6190f50fc6b4a4931205b34395
+.pinterest.com	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSZpb0ZjL3RUYzRzVkZKM3pTWStqTFB5ZThCVXliZ2daK0pzVk5hcEFhY2ZRRXdxczhXWUVHL0hBMzcwQXFXdmhBVGh1L25wQlhsRzBHWHBZWEJxRVM5REZBUCtwYTgxUm5JSDZ2eFhac2JzTT0mbndMcmZlWTZ2NVVNSm9nWlE4OUE2YmhBTStrPQ==
+www.pinterest.com	TRUE	/	FALSE	1999999999	samesite	none
+.pinterest.com	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	b7b8d69f-8367-457a-affd-5712b661d77c"
+clippingmagic.com	TRUE	/	FALSE	1999999999	PLAY_FLASH	eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImRhbmdlciI6IlNvcnJ5LCBzb21ldGhpbmcgd2VudCB3cm9uZyBvciB0aGF0IHdhcyBhbiB1bmtub3duIGJsb2cgcG9zdC4gIn0sIm5iZiI6MTcwNzg0MDE5MSwiaWF0IjoxNzA3ODQwMTkxfQ.QDKXJUL802iEFpJ3A3uoNoy8MORHZzM_6MD2dRdtoc0
+.clippingmagic.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
